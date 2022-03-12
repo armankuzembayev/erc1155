@@ -1,0 +1,15 @@
+{
+    "description": "Team Kakashi", 
+    "image": "ipfs://QmSg2Cw82t8kAPRr84ZSSuS8gzZmzzdUvZs5y9nFTyapiY/1.png", 
+    "name": "Naruto",
+    "attributes": [
+        {
+            "trait_type": "Power",
+            "value": 8
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 9
+        }
+    ]
+  }
